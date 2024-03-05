@@ -8,4 +8,4 @@
 
  _[!] Mudanças ainda serão feitas e algumas funções adicionadas!_
 
- Projeto desenvolvido por **[IuriCodes](https://github.com/iuricode)**.
+ Projeto desenvolvido por **[IuriCode](https://github.com/iuricode)**.
