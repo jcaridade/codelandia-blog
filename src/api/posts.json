@@ -1,0 +1,68 @@
+[
+	{
+		"date": "17 de ago, 2024",
+		"title": "O que é linguagem de programação? Conheça as principais",
+		"subcontent": "Uma das mais populares vertentes da tecnologia da informação, a área de programação segue tendo muita demanda de trabalho justamente pela velocidade com que dispositivos tecnológicos vêm avançando."
+	},
+	{
+		"date": "12 de jul, 2024",
+		"title": "GitHub agora permite fazer login sem precisar de senha",
+		"subcontent": "O GitHub anunciou nesta quarta-feira (12) o acesso a partir das passkeys, método de autenticação sem senhas. A novidade está disponível em uma versão beta pública e pode substituir a autenticação em dois fatores."
+	},
+	{
+		"date": "21 de jun, 2024",
+		"title": "Por que os hiperlinks são azuis em sua maioria?",
+		"subcontent": "Quem navega na internet, certamente já percebeu que ela conta com diversos recursos para tornar a nossa vida mais fácil. Entre essas opções podemos mencionar os hiperlinks – uma palavra ou termo clicável que direciona o leitor."
+	},
+	{
+		"date": "17 de ago, 2024",
+		"title": "O que é linguagem de programação? Conheça as principais",
+		"subcontent": "Uma das mais populares vertentes da tecnologia da informação, a área de programação segue tendo muita demanda de trabalho justamente pela velocidade com que dispositivos tecnológicos vêm avançando."
+	},
+	{
+		"date": "18 de ago, 2024",
+		"title": "Introdução à Inteligência Artificial",
+		"subcontent": "A Inteligência Artificial (IA) é uma área da ciência da computação que se propõe a criar sistemas que podem simular a inteligência humana."
+	},
+	{
+		"date": "19 de ago, 2024",
+		"title": "Principais linguagens de programação para aprendizado de máquina",
+		"subcontent": "A aprendizagem de máquina é uma área em ascensão que utiliza algoritmos para fazer previsões e decisões com base em dados."
+	},
+	{
+		"date": "20 de ago, 2024",
+		"title": "O futuro da computação quântica",
+		"subcontent": "A computação quântica promete revolucionar a maneira como processamos informações, aproveitando os princípios da mecânica quântica."
+	},
+	{
+		"date": "21 de ago, 2024",
+		"title": "Blockchain: além das criptomoedas",
+		"subcontent": "O blockchain é uma tecnologia que permite a criação de registros digitais imutáveis, sendo amplamente conhecido pelo uso em criptomoedas como o Bitcoin."
+	},
+	{
+		"date": "5 de nov, 2024",
+		"title": "Aplicações do Blockchain na Indústria de Saúde",
+		"subcontent": "Explorando as possibilidades do blockchain na gestão de registros médicos e na segurança de dados sensíveis no setor de saúde."
+	},
+	{
+		"date": "17 de jan, 2025",
+		"title": "Blockchain e Sustentabilidade Ambiental",
+		"subcontent": "Analisando como a tecnologia blockchain pode ser utilizada para rastrear e verificar práticas sustentáveis em cadeias de produção e fornecimento."
+	},
+	{
+		"date": "8 de mar, 2025",
+		"title": "Transformando a Logística com Blockchain",
+		"subcontent": "Explorando como o blockchain pode otimizar processos logísticos, garantindo transparência e eficiência nas cadeias de fornecimento globais."
+	},
+
+	{
+		"date": "12 de jun, 2025",
+		"title": "Blockchain e Privacidade de Dados",
+		"subcontent": "Discutindo as soluções oferecidas pelo blockchain para proteger a privacidade dos usuários e evitar violações de dados em um mundo cada vez mais digitalizado."
+	},
+	{
+		"date": "30 de set, 2025",
+		"title": "Blockchain na Indústria Automotiva",
+		"subcontent": "Explorando como o blockchain está revolucionando a indústria automotiva, desde o rastreamento de peças até contratos inteligentes para transações de veículos."
+	}
+]
