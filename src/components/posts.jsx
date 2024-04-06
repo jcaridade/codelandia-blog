@@ -10,7 +10,7 @@ export function Posts() {
 	const [posts, setPosts] = useState([]);
 
 	useEffect(() => {
-		fetch("/src/api/posts.json")
+		fetch("/api/posts.json")
 			.then((res) => {
 				if (!res.ok) {
 					throw new Error("Ocorreu um erro 😢");
