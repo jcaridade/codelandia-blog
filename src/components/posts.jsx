@@ -17,8 +17,7 @@ export function Posts() {
 				}
 				return res.json();
 			})
-			.then((data) => setPosts(data))
-			.catch((error) => console.log("Erro ao consumir API.", error));
+			.then((data) => setPosts(data));
 	});
 
 	useEffect(() => {
